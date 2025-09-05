@@ -19,7 +19,7 @@ main {
 body {
   font-family: Arial, sans-serif;
   margin: 0px;
-  background: url(./img/bg.png) no-repeat;
+  background: url(img/bg.png) no-repeat;
 }
 
 header {
